@@ -440,16 +440,17 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-started-my-phd-journey-at-the-university-of-hong-kong",
+          title: 'Started my PhD journey at The University of Hong Kong!',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-our-paper-gumiho-a-hybrid-architecture-to-prioritize-early-tokens-in-speculative-decoding-was-accepted-to-icml-2025",
+          title: 'Our paper Gumiho: A Hybrid Architecture to Prioritize Early Tokens in Speculative Decoding...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-our-paper-training-free-loosely-speculative-decoding-fly-was-accepted-to-iclr-2026",
+          title: 'Our paper Training-Free Loosely Speculative Decoding (FLy) was accepted to ICLR 2026!',
+          description: "",
+          section: "News",},{id: "news-our-paper-ocr-memory-optical-context-retrieval-for-long-horizon-agent-memory-was-accepted-to-acl-2026-main-conference",
+          title: 'Our paper OCR-Memory: Optical Context Retrieval for Long-Horizon Agent Memory was accepted to...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -511,21 +512,28 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/CV_LiJinze.pdf", "_blank");
         },
       },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%6C%69%6A%69%6E%7A%65-%68%6B%75@%63%6F%6E%6E%65%63%74.%68%6B%75.%68%6B", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-scholar',
+        title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://scholar.google.com/citations?user=9SAtGz4AAAAJ", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/userljz", "_blank");
         },
       },{
         id: 'social-rss',
@@ -533,20 +541,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("/feed.xml", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
       id: 'light-theme',
