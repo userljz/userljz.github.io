@@ -78,6 +78,42 @@ ul.task-list input[type="checkbox"] {
   margin-right: 1rem;
 }
 
+// Social icons placed under the profile picture (smaller than bottom .social)
+.profile-social {
+  text-align: center;
+  margin-top: 0.6rem;
+  margin-bottom: 0.5rem;
+
+  .contact-icons {
+    font-size: 1.6rem;
+    line-height: 1.2;
+
+    a {
+      margin: 0 0.2rem;
+
+      img,
+      svg {
+        width: 1.4rem;
+        height: 1.4rem;
+        margin-bottom: 0.2rem;
+      }
+
+      i::before {
+        color: var(--global-text-color);
+        transition: color 0.2s ease-in-out;
+      }
+
+      &:hover {
+        text-decoration: none;
+
+        i::before {
+          color: var(--global-theme-color);
+        }
+      }
+    }
+  }
+}
+
 @media (min-width: 576px) {
   .profile {
     width: 30%;

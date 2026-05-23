@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: biography
 permalink: /
 subtitle: PhD Candidate at <a href='https://www.hku.hk/'>The University of Hong Kong</a>. Speculative Decoding · Agent Memory · LLM Post-training.
 
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm **Jinze Li (李金泽)**, a PhD candidate at [The University of Hong Kong](https://www.hku.hk/). I received my MSc from the University of Chinese Academy of Sciences (2020–2023) and my BEng from Dalian University of Technology (2016–2020).
+Hi, I'm **Jinze Li (李金泽)**, a PhD candidate at [The University of Hong Kong](https://www.hku.hk/).
 
 My research focuses on making large language models faster, smarter, and more capable. Current interests include:
 
@@ -38,3 +38,24 @@ My research focuses on making large language models faster, smarter, and more ca
 I have been fortunate to do research internships at **Huawei** (2022–2023), **AMD** (2024–2026), and currently at **Ant Group** under the *Ant Star Program* (2026–Present).
 
 Feel free to reach out via [email](mailto:lijinze-hku@connect.hku.hk) — I'd love to chat about research and potential collaborations.
+
+---
+
+## Education
+
+<table class="table table-sm" style="background-color: transparent;">
+  <tbody>
+    <tr>
+      <td style="white-space: nowrap;"><strong>2023 – 2027</strong></td>
+      <td><strong>Ph.D.</strong>, <a href="https://www.hku.hk/">The University of Hong Kong</a>, Hong Kong SAR, China</td>
+    </tr>
+    <tr>
+      <td style="white-space: nowrap;"><strong>2020 – 2023</strong></td>
+      <td><strong>M.Sc.</strong>, <a href="https://english.ucas.ac.cn/">University of Chinese Academy of Sciences</a>, Beijing, China</td>
+    </tr>
+    <tr>
+      <td style="white-space: nowrap;"><strong>2016 – 2020</strong></td>
+      <td><strong>B.Eng.</strong>, <a href="https://en.dlut.edu.cn/">Dalian University of Technology</a>, Dalian, China</td>
+    </tr>
+  </tbody>
+</table>
