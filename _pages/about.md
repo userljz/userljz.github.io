@@ -34,7 +34,7 @@ Current research interests include:
 - **Agent Memory & Self-evolution** — enabling agents to handle long-horizon interactions and improve themselves over time.
 - **LLM Post-training** — SFT, RL, and decoding-time techniques to align and enhance model behavior.
 
-I have been fortunate to do research internships at **Huawei** (2022–2023), **AMD** (2024–2026), and currently at **Ant Group** under the *Ant Star Program* (2026–Present).
+I have been fortunate to do research internships at **SenseTime**, **Huawei**, **ByteDance**, **AMD**, and **Ant Group** (the *Ant Star Program*).
 
 ## Education
 
