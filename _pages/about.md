@@ -26,7 +26,9 @@ latest_posts:
 
 Hi, I'm **Jinze Li (李金泽)**, a PhD candidate at [The University of Hong Kong](https://www.hku.hk/).
 
-My research focuses on making large language models faster, smarter, and more capable. Current interests include:
+My broader vision is to bring LLMs from research advances to dependable real-world systems, pursued along two complementary fronts: **improving inference efficiency for cost-effective deployment**, and **empowering long-horizon agents through persistent memory and self-evolution**.
+
+Current research interests include:
 
 - **Speculative Decoding** — accelerating LLM inference by drafting and verifying tokens efficiently.
 - **Agent Memory & Self-evolution** — enabling agents to handle long-horizon interactions and improve themselves over time.
