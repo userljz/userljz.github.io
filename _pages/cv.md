@@ -1,12 +1,26 @@
 ---
-layout: cv
+layout: none
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 2
-cv_pdf: /assets/pdf/CV_LiJinze.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+sitemap: false
+description: Redirect to my CV (PDF).
 ---
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <title>Redirecting to CV…</title>
+    <meta http-equiv="refresh" content="0; url={{ '/assets/pdf/CV_LiJinze.pdf' | relative_url }}" />
+    <link rel="canonical" href="{{ '/assets/pdf/CV_LiJinze.pdf' | absolute_url }}" />
+    <script>
+      location.replace("{{ '/assets/pdf/CV_LiJinze.pdf' | relative_url }}" + location.search + location.hash);
+    </script>
+  </head>
+  <body>
+    <p>
+      Redirecting to my CV… If you are not redirected automatically, <a href="{{ '/assets/pdf/CV_LiJinze.pdf' | relative_url }}">click here</a>.
+    </p>
+  </body>
+</html>
