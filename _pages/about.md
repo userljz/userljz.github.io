@@ -39,23 +39,8 @@ I have been fortunate to do research internships at **Huawei** (2022–2023), **
 
 Feel free to reach out via [email](mailto:lijinze-hku@connect.hku.hk) — I'd love to chat about research and potential collaborations.
 
----
-
 ## Education
 
-<table class="table table-sm" style="background-color: transparent;">
-  <tbody>
-    <tr>
-      <td style="white-space: nowrap;"><strong>2023 – 2027</strong></td>
-      <td><strong>Ph.D.</strong>, <a href="https://www.hku.hk/">The University of Hong Kong</a>, Hong Kong SAR, China</td>
-    </tr>
-    <tr>
-      <td style="white-space: nowrap;"><strong>2020 – 2023</strong></td>
-      <td><strong>M.Sc.</strong>, <a href="https://english.ucas.ac.cn/">University of Chinese Academy of Sciences</a>, Beijing, China</td>
-    </tr>
-    <tr>
-      <td style="white-space: nowrap;"><strong>2016 – 2020</strong></td>
-      <td><strong>B.Eng.</strong>, <a href="https://en.dlut.edu.cn/">Dalian University of Technology</a>, Dalian, China</td>
-    </tr>
-  </tbody>
-</table>
+- **2023 – 2027** &nbsp;·&nbsp; **Ph.D.**, [The University of Hong Kong](https://www.hku.hk/), Hong Kong SAR, China
+- **2020 – 2023** &nbsp;·&nbsp; **M.Sc.**, [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), Beijing, China
+- **2016 – 2020** &nbsp;·&nbsp; **B.Eng.**, [Dalian University of Technology](https://en.dlut.edu.cn/), Dalian, China
