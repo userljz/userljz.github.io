@@ -38,6 +38,6 @@ Feel free to reach out via [email](mailto:lijinze-hku@connect.hku.hk) — I'd lo
 
 ## Education
 
-- **2023 – 2027** &nbsp;·&nbsp; **Ph.D.**, [The University of Hong Kong](https://www.hku.hk/), Hong Kong SAR, China
-- **2020 – 2023** &nbsp;·&nbsp; **M.Sc.**, [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), Beijing, China
-- **2016 – 2020** &nbsp;·&nbsp; **B.Eng.**, [Dalian University of Technology](https://en.dlut.edu.cn/), Dalian, China
+- **2023 – 2027** &nbsp;·&nbsp; **Ph.D.**, [香港大学 / The University of Hong Kong](https://www.hku.hk/), Hong Kong SAR, China
+- **2020 – 2023** &nbsp;·&nbsp; **M.Sc.**, [中国科学院大学 / University of Chinese Academy of Sciences](https://www.ucas.ac.cn/), Beijing, China
+- **2016 – 2020** &nbsp;·&nbsp; **B.Eng.**, [大连理工大学 / Dalian University of Technology](https://www.dlut.edu.cn/), Dalian, China
