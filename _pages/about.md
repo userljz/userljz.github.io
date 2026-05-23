@@ -36,7 +36,7 @@ Current research interests include:
 
 I have been fortunate to do research internships at **SenseTime**, **Huawei**, **ByteDance**, **AMD**, and **Ant Group** (the *Ant Star Program*).
 
-## Education
+## education
 
 - **2023 – 2027** &nbsp;·&nbsp; **Ph.D.**, [香港大学 / The University of Hong Kong](https://www.hku.hk/), Hong Kong SAR, China
 - **2020 – 2023** &nbsp;·&nbsp; **M.Sc.**, [中国科学院大学 / University of Chinese Academy of Sciences](https://www.ucas.ac.cn/), Beijing, China
