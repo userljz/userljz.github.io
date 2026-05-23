@@ -34,8 +34,6 @@ My research focuses on making large language models faster, smarter, and more ca
 
 I have been fortunate to do research internships at **Huawei** (2022–2023), **AMD** (2024–2026), and currently at **Ant Group** under the *Ant Star Program* (2026–Present).
 
-Feel free to reach out via [email](mailto:lijinze-hku@connect.hku.hk) — I'd love to chat about research and potential collaborations.
-
 ## Education
 
 - **2023 – 2027** &nbsp;·&nbsp; **Ph.D.**, [香港大学 / The University of Hong Kong](https://www.hku.hk/), Hong Kong SAR, China

@@ -6,8 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Jinze
 middle_name:
 last_name: Li
-contact_note: >
-  The best way to reach me is via email. I'm happy to chat about research, collaborations, or any of the topics below.
+contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal homepage of Jinze Li (李金泽), PhD candidate at The University of Hong Kong. Research on Speculative Decoding, Agent Memory, Agent Self-evolution, and LLM Post-training.
 footer_text: >
