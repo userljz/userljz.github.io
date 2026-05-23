@@ -2,7 +2,7 @@
 layout: about
 title: biography
 permalink: /
-subtitle: PhD Candidate at <a href='https://www.hku.hk/'>The University of Hong Kong</a>. Speculative Decoding · Agent Memory · LLM Post-training.
+subtitle:
 
 profile:
   align: right
