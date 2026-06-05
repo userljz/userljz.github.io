@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-06-05'
 papers:
   9SAtGz4AAAAJ:2osOgNQ5qMEC:
     citations: 39
@@ -22,23 +22,27 @@ papers:
     title: Multi-scale contrastive attention representation learning for encrypted traffic classification
     year: '2024'
   9SAtGz4AAAAJ:W7OEmFMy1HYC:
-    citations: 1
+    citations: 2
     title: 'OCR-Memory: Optical Context Retrieval for Long-Horizon Agent Memory'
     year: '2026'
   9SAtGz4AAAAJ:Y0pCki6q_DkC:
     citations: 5
     title: 'Training-Free Loosely Speculative Decoding: Accepting Semantically Correct Drafts Beyond Exact Match'
     year: '2025'
+  9SAtGz4AAAAJ:YsMSGLbcyi4C:
+    citations: 0
+    title: 'Beyond the Target: From Imitation to Collaboration in Speculative Decoding'
+    year: '2026'
   9SAtGz4AAAAJ:d1gkVwhDpl0C:
-    citations: 166
+    citations: 167
     title: "Fourierkan-gcf: Fourier kolmogorov-arnold network\u2013an effective and efficient feature transformation for graph collaborative filtering"
     year: '2024'
   9SAtGz4AAAAJ:qjMakFHDy7sC:
-    citations: 29
+    citations: 30
     title: 'Recda: Concept drift adaptation with representation enhancement for network intrusion detection'
     year: '2024'
   9SAtGz4AAAAJ:u-x6o8ySG0sC:
-    citations: 10
+    citations: 11
     title: 'Gumiho: A Hybrid Architecture to Prioritize Early Tokens in Speculative Decoding'
     year: '2025'
   9SAtGz4AAAAJ:zYLM7Y9cAGgC:
