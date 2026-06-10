@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-06-05'
+  last_updated: '2026-06-10'
 papers:
   9SAtGz4AAAAJ:2osOgNQ5qMEC:
-    citations: 39
+    citations: 41
     title: 'Aligngroup: Learning and aligning group consensus with member preferences for group recommendation'
     year: '2024'
   9SAtGz4AAAAJ:9yKSN-GCB0IC:
@@ -34,8 +34,8 @@ papers:
     title: 'Beyond the Target: From Imitation to Collaboration in Speculative Decoding'
     year: '2026'
   9SAtGz4AAAAJ:d1gkVwhDpl0C:
-    citations: 167
-    title: "Fourierkan-gcf: Fourier kolmogorov-arnold network\u2013an effective and efficient feature transformation for graph collaborative filtering"
+    citations: 168
+    title: 'FourierKAN-GCF: Fourier Kolmogorov-Arnold Network--An Effective and Efficient Feature Transformation for Graph Collaborative Filtering'
     year: '2024'
   9SAtGz4AAAAJ:qjMakFHDy7sC:
     citations: 30
