@@ -1,14 +1,14 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: '2026-07-29'
 papers:
   9SAtGz4AAAAJ:2osOgNQ5qMEC:
     citations: 42
     title: 'Aligngroup: Learning and aligning group consensus with member preferences for group recommendation'
     year: '2024'
   9SAtGz4AAAAJ:9yKSN-GCB0IC:
-    citations: 118
+    citations: 121
     title: 'Mentor: multi-level self-supervised learning for multimodal recommendation'
-    year: '2025'
+    year: '2024'
   9SAtGz4AAAAJ:IjCSPb-OGe4C:
     citations: 7
     title: Memory-based label-text tuning for few-shot class-incremental learning
@@ -38,7 +38,7 @@ papers:
     title: 'FourierKAN-GCF: Fourier Kolmogorov-Arnold Network--An Effective and Efficient Feature Transformation for Graph Collaborative Filtering'
     year: '2024'
   9SAtGz4AAAAJ:qjMakFHDy7sC:
-    citations: 33
+    citations: 35
     title: 'Recda: Concept drift adaptation with representation enhancement for network intrusion detection'
     year: '2024'
   9SAtGz4AAAAJ:u-x6o8ySG0sC:
